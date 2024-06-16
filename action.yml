@@ -24,6 +24,8 @@ inputs:
     description: 'Force kill the server if it is running for faster restart'
     required: false
     default: false
+outputs:
+  
 
 runs:
   using: 'node16'
